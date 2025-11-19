@@ -43,3 +43,8 @@
     - typescript
     - postgresql
     - prisma
+
+### Important commands
+
+    - yarn dev
+    - npx prisma studio
